@@ -80,8 +80,6 @@ Advanced contact form with validation, user-friendly experience, and seamless in
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shamsur-rahman-rifat\&show_icons=true\&theme=tokyonight)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shamsur-rahman-rifat\&layout=compact\&theme=tokyonight)
 
 ---
